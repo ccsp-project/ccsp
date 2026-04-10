@@ -45,6 +45,12 @@ CCSP is the library stack that should have shipped with ANSI C:
 | [ccsp-design.md](ccsp-design.md) | Master design — all libraries, rationale, API guide |
 | [design-base.md](design-base.md) | lib_ccsp_base detailed design |
 
+## Contributing
+
+All contributions require a `Signed-off-by` line (DCO). Use `git commit -s`.
+
+See [DCO.txt](DCO.txt) for details.
+
 ## License
 
 - Documentation (*.md): CC-BY-SA-4.0
